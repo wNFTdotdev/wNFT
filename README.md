@@ -11,6 +11,14 @@ The protocol consists of two core components:
 
 The design prioritizes simplicity and composability. Each wNFT contract is a standalone fractionalization primitive that can be integrated into AMMs, lending protocols, or other DeFi systems.
 
+## Deployments
+
+### wNFTFactory
+
+| Network | Address |
+|---------|---------|
+| Base Mainnet | [`0x5267b75b6960e345b8cb6b0f2c740e7bcc90614b`](https://basescan.org/address/0x5267b75b6960e345b8cb6b0f2c740e7bcc90614b) |
+
 ## How wNFT Works
 
 ### Core Mechanics
